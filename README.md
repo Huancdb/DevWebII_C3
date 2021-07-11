@@ -1,1 +1,2 @@
-# DevWebII_C3
+# Projeto da matéria de DevWeb II
+# C3 - Inclusão do frontend com react
